@@ -1,2 +1,4 @@
 ---
+spring:
+  profile: east
 lucky-word: Irish
